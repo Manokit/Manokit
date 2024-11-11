@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Skywatch](skywatch.gg)
 -->
 
-- 🌱 I’m currently learning: **SwiftUI** and **Tauri (With SolidJS)**
+- 🌱 I’m currently learning: **Rust** and **Tauri (With SolidJS)**
 
 - 💬 Ask me about: **Otters, The Ocean, and the PNW**
 
